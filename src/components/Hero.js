@@ -13,8 +13,8 @@ const Hero = () => {
 				<div className="hero-text">
 					<div className="left-side">
 						<h4>Hello there. I'm</h4>
-						<h1>Said Mounaim</h1>
-						<p>I'm a Full Stack Web Developer.</p>
+						<h1>Ichiro Ashitaka Yamasaki</h1>
+						<p>I'm a site reliability engineer.</p>
 						<SocialMedia />
 					</div>
 					<div className="right-side">

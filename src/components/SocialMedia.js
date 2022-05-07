@@ -3,6 +3,7 @@ import styled from 'styled-components';
 import facebook from '../icons/facebook.svg';
 import twitter from '../icons/twitter.svg';
 import github from '../icons/github.svg';
+import linkedin from '../icons/linkedin.svg';
 
 const SocialMedia = () => {
 	return (
@@ -10,17 +11,17 @@ const SocialMedia = () => {
 			<span>Find Me on</span>
 			<ul>
 				<li>
-					<a href="https://twitter.com/said_mounaim" rel="noreferrer" target="_blank">
+					<a href="https://twitter.com/BiteChacha" rel="noreferrer" target="_blank">
 						<img src={twitter} alt="Twitter" />
 					</a>
 				</li>
 				<li>
-					<a href="https://www.facebook.com/apiyaue06" rel="noreferrer" target="_blank">
-						<img src={facebook} alt="Facebook" />
+					<a href="https://www.linkedin.com/in/ichiro-yamasaki-1692aa168/" rel="noreferrer" target="_blank">
+						<img src={linkedin} alt="Facebook" />
 					</a>
 				</li>
 				<li>
-					<a href="https://github.com/saidMounaim" rel="noreferrer" target="_blank">
+					<a href="https://github.com/ichi-theinterface" rel="noreferrer" target="_blank">
 						<img src={github} alt="Github" />
 					</a>
 				</li>

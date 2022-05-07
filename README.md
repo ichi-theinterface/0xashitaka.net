@@ -1,4 +1,4 @@
-# Said MOUNAIM
+# Ashitaka
 
 <p align="center">
   <kbd>
@@ -40,7 +40,7 @@ $ npm start
 
 ## Technologies Used
 
--   [React](https://reactjs.org/)
--   [styled-components](https://styled-components.com/)
--   [react-reveal](https://www.react-reveal.com/)
--   [react-lottie](https://www.npmjs.com/package/react-lottie)
+- [React](https://reactjs.org/)
+- [styled-components](https://styled-components.com/)
+- [react-reveal](https://www.react-reveal.com/)
+- [react-lottie](https://www.npmjs.com/package/react-lottie)

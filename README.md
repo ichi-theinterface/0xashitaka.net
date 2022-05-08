@@ -10,9 +10,7 @@
 
 ### This repo was originally folked from https://github.com/saidMounaim/SMPortfolio
 
-<!---
-### To view a live example, **[click here]()**.
---->
+### To view a live example, **[click here](https://www.0xashitaka.net/)**.
 
 ## Getting Started
 

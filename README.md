@@ -10,7 +10,9 @@
 
 ### This repo was originally folked from https://github.com/saidMounaim/SMPortfolio
 
+<!---
 ### To view a live example, **[click here]()**.
+--->
 
 ## Getting Started
 

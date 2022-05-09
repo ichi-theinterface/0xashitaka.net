@@ -14,7 +14,8 @@ const Hero = () => {
 					<div className="left-side">
 						<h4>Hello there. I'm</h4>
 						<h1>Ichiro Ashitaka Yamasaki</h1>
-						<p>I'm a site reliability engineer.</p>
+						<p>I'm a netwrok engineer</p>
+						<p>who passionate about automation and code.</p>
 						<SocialMedia />
 					</div>
 					<div className="right-side">

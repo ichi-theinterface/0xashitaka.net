@@ -1,12 +1,16 @@
 # Ashitaka
 
+<!---
 <p align="center">
   <kbd>
     <img src="https://i.ibb.co/N9mXnwr/sm.png"></img>
   </kbd>
 </p>
+--->
 
-### To view a live example, **[click here]()**.
+### This repo was originally folked from https://github.com/saidMounaim/SMPortfolio
+
+### To view a live example, **[click here](https://www.0xashitaka.net/)**.
 
 ## Getting Started
 
@@ -26,10 +30,10 @@ From your command line, clone and run SMPortfolio:
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/saidMounaim/SMPortfolio.git
+$ git clone https://github.com/ichi-theinterface/0xashitaka.net
 
 # Go into the repository
-$ cd SMPortfolio
+$ cd 0xashitaka.net
 
 # Install dependencies
 $ npm install
